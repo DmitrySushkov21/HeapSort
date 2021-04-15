@@ -34,3 +34,4 @@ for child in root:
             start_length = int(start_length * diff)
 
 wb.save('result.xlsx')
+print('Результат массовой задачи сохранён в result.xlsx')
